@@ -1,0 +1,1 @@
+Vision Emotion AI System is a real-time video analysis project that combines computer vision and deep learning to detect people and mobile phones using YOLO and predict facial emotions using Hugging Face models. It integrates multiple AI models into a single pipeline to analyze human presence, device usage, and emotional states from video data.
